@@ -1,19 +1,19 @@
 //
-//  ProducerConsumerModelTests.m
-//  ProducerConsumerModelTests
+//  ProducerConsumerProblemTests.m
+//  ProducerConsumerProblemTests
 //
-//  Created by lijunjie on 15/4/23.
+//  Created by lijunjie on 15/4/25.
 //  Copyright (c) 2015年 lijunjie. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface ProducerConsumerModelTests : XCTestCase
+@interface ProducerConsumerProblemTests : XCTestCase
 
 @end
 
-@implementation ProducerConsumerModelTests
+@implementation ProducerConsumerProblemTests
 
 - (void)setUp {
     [super setUp];

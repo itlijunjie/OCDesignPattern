@@ -14,10 +14,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0E048C281AE91193003B3E27"
-               BuildableName = "ProducerConsumerModel.app"
-               BlueprintName = "ProducerConsumerModel"
-               ReferencedContainer = "container:ProducerConsumerModel.xcodeproj">
+               BlueprintIdentifier = "0EDE38CD1AEBB36400E4433E"
+               BuildableName = "ProducerConsumerProblem.app"
+               BlueprintName = "ProducerConsumerProblem"
+               ReferencedContainer = "container:ProducerConsumerProblem.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0EDE38E61AEBB36400E4433E"
+               BuildableName = "ProducerConsumerProblemTests.xctest"
+               BlueprintName = "ProducerConsumerProblemTests"
+               ReferencedContainer = "container:ProducerConsumerProblem.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +42,24 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0EDE38E61AEBB36400E4433E"
+               BuildableName = "ProducerConsumerProblemTests.xctest"
+               BlueprintName = "ProducerConsumerProblemTests"
+               ReferencedContainer = "container:ProducerConsumerProblem.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0E048C281AE91193003B3E27"
-            BuildableName = "ProducerConsumerModel.app"
-            BlueprintName = "ProducerConsumerModel"
-            ReferencedContainer = "container:ProducerConsumerModel.xcodeproj">
+            BlueprintIdentifier = "0EDE38CD1AEBB36400E4433E"
+            BuildableName = "ProducerConsumerProblem.app"
+            BlueprintName = "ProducerConsumerProblem"
+            ReferencedContainer = "container:ProducerConsumerProblem.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0E048C281AE91193003B3E27"
-            BuildableName = "ProducerConsumerModel.app"
-            BlueprintName = "ProducerConsumerModel"
-            ReferencedContainer = "container:ProducerConsumerModel.xcodeproj">
+            BlueprintIdentifier = "0EDE38CD1AEBB36400E4433E"
+            BuildableName = "ProducerConsumerProblem.app"
+            BlueprintName = "ProducerConsumerProblem"
+            ReferencedContainer = "container:ProducerConsumerProblem.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0E048C281AE91193003B3E27"
-            BuildableName = "ProducerConsumerModel.app"
-            BlueprintName = "ProducerConsumerModel"
-            ReferencedContainer = "container:ProducerConsumerModel.xcodeproj">
+            BlueprintIdentifier = "0EDE38CD1AEBB36400E4433E"
+            BuildableName = "ProducerConsumerProblem.app"
+            BlueprintName = "ProducerConsumerProblem"
+            ReferencedContainer = "container:ProducerConsumerProblem.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

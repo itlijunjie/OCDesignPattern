@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ProducerConsumerModel.xcscheme</key>
+		<key>ProducerConsumerProblem.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>0E048C281AE91193003B3E27</key>
+		<key>0EDE38CD1AEBB36400E4433E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>0E048C411AE91194003B3E27</key>
+		<key>0EDE38E61AEBB36400E4433E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

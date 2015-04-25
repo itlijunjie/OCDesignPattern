@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  ProducerConsumerModel
+//  ProducerConsumerProblem
 //
-//  Created by lijunjie on 15/4/23.
+//  Created by lijunjie on 15/4/25.
 //  Copyright (c) 2015年 lijunjie. All rights reserved.
 //
 
